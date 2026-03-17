@@ -48,6 +48,10 @@ Ensure you have Python installed on your Windows machine.
 4. **Analyze**: Click **▶ Run Deadlock Detection**.
 5. **Review**: Check the status bar and the visual graph. If a deadlock is found, the specific cycle will be highlighted in red.
 
-## 📝 License
+##  License
 
 This project is open-source and available for educational purposes.
+
+👨‍💻 Author
+
+Kusumitha Kuppala
